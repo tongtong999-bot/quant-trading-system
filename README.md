@@ -48,8 +48,8 @@ quant_trading_system/
 
 ```bash
 # 克隆项目
-git clone <repository-url>
-cd quant_trading_system
+git clone https://github.com/tongtong999-bot/quant-trading-system.git
+cd quant-trading-system
 
 # 创建虚拟环境
 python -m venv venv
